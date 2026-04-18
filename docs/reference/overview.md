@@ -8,6 +8,12 @@ The foundational commands for creating and managing Spec Kit projects. Initializ
 
 [Core Commands reference →](core.md)
 
+## Usage Flows
+
+An end-to-end map of the main user journeys supported by the repository: installation, initialization, manual SDD execution, task handoff, customization, and workflow automation.
+
+[Usage Flows reference →](usage-flows.md)
+
 ## Integrations
 
 Integrations connect Spec Kit to your AI coding agent. Each integration sets up the appropriate command files, context rules, and directory structures for a specific agent. Only one integration is active per project at a time, and you can switch between them at any point.

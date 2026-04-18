@@ -17,6 +17,8 @@
   items:
     - name: Overview
       href: reference/overview.md
+    - name: Usage Flows
+      href: reference/usage-flows.md
     - name: Core Commands
       href: reference/core.md
     - name: Integrations
